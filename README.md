@@ -102,4 +102,4 @@ A smart chatbot system developed using **Grok API and LLaMA model**, capable of 
 Install required libraries using:
 
 ```bash
-pip install numpy matplotlib scikit-learn tensorflow lime
+pip install torch torchvision torchaudio numpy matplotlib scikit-learn tensorflow lime
