@@ -56,6 +56,16 @@ Working with sequential data and comparing different architectures for sequence 
 ### ✔ Experiment 8 – Model Explainability using LIME  
 Interpretation of model predictions using LIME to understand feature contributions.
 
+### ✔ Experiment 9 – Variational Autoencoders (VAE) vs Generative Adversarial Networks (GANs)
+Comparative study of generative models including VAE and GAN architectures for synthetic image generation.
+
+**Topics Covered:**
+- Encoder–Decoder architecture  
+- Latent space representation  
+- GAN Generator and Discriminator  
+- Image generation using deep generative models  
+- Comparison of VAE and GAN outputs  
+
 ---
 
 ## 🤖 AI Application
